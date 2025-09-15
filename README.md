@@ -28,8 +28,7 @@ Before you get this ride on the road, you'll need a few things:
 
 1.  **Clone the Repository**:
     ```sh
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    git clone https://github.com/tysenh1/TheVinBoxProjectGo    cd your-repo-name
     ```
 2.  **Get Your Gmail API Credentials**:
     Follow the steps in the [Google API documentation](https://developers.google.com/gmail/api/quickstart/go) to create a project, enable the Gmail API, and download your `credentials.json` file. Place this file in the same directory as your `main.go` file.

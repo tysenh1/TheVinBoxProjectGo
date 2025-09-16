@@ -43,6 +43,7 @@ Before you get this ride on the road, you'll need a few things:
 ### **Usage** 🗣️
 
 To see the application in action, simply run the main file. The first time you run it, you'll be prompted to authenticate with your Google account in your browser.
+The code you have to enter in the command line is in the localhost url, I haven't figured out how to do it automatically yet.
 
 ```sh
 go run main.go
